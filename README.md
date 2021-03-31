@@ -1,1 +1,1 @@
-# Twitter-vs-Stock-Market
+# Twitter vs Stock Market
