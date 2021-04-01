@@ -8,4 +8,4 @@ To search for the speculators and influencers in the stock market, we use a data
 
 This analysis was performed on a HP Pavilion laptop (Intel® Core™ i7-8550U CPU @ 1.80GHz 4 Cores equipped with 32GB of dynamic RAM) employing Anaconda 1.10.0 (Individual Distribution) for Windows and PyCharm 2019.3.5 (Community Edition) as open-source development platforms. Pyhton 3.7 is the programming language of choice because of its fast-prototyping capability and wide spectrum of supporting data science libraries.
 
-Due to upload limitations (25MB) the tweets and some of the results could not be uploaded but they can be provided with other means upon request.
+Due to upload limitations (25MB) by GitHub, the tweets and some of the results could not be uploaded but they can be provided with other means upon request.
